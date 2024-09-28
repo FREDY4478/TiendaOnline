@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.card-img-top {
+    height: 400px;
+    object-fit: cover;
+}
+
+footer {
+    margin-top: 50px;
+}
+
